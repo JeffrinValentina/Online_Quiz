@@ -1,0 +1,18 @@
+{
+  "title": "Sample Java Basics Quiz",
+  "description": "A short quiz on Java basics",
+  "questions": [
+    {
+      "text": "What is the size of int in Java (bits)?",
+      "marks": 1,
+      "choices": [{ "text": "16" }, { "text": "32" }, { "text": "64" }, { "text": "Depends on JVM" }],
+      "correctIndex": 1
+    },
+    {
+      "text": "Which keyword is used for inheritance?",
+      "marks": 1,
+      "choices": [{ "text": "implement" }, { "text": "extends" }, { "text": "inherits" }, { "text": "uses" }],
+      "correctIndex": 1
+    }
+  ]
+}
